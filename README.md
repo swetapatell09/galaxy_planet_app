@@ -11,7 +11,7 @@ Shared Preferences, a Local JSON Bank, fetching planet details, saving favorites
 themes, a splash screen, and detailed planet screens, the app offers a comprehensive solution for
 users to explore the wonders of the galaxy through captivating animations.
 
-===ScreenShots===
+ScreenShots
 <p>
   <img src ="https://github.com/swetapatell09/galaxy_planet_app/assets/165981407/cc5f46f1-fa3d-4267-800b-39569ece86d8" height="400px" width="200px"/>
   <img src ="https://github.com/swetapatell09/galaxy_planet_app/assets/165981407/2c52c250-6cb0-4ce9-8795-cb74a64274c2" height="400px" width="200px"/>
