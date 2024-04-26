@@ -1,4 +1,4 @@
-![gp3](https://github.com/swetapatell09/galaxy_planet_app/assets/165981407/3a84525c-25c9-4860-93f1-81ab743cd03f)# galaxy_planet_app
+# galaxy_planet_app
 
 "Galaxy Planets (Animator)" is an exciting mobile application built using Flutter, focusing on
 creating captivating animations. The app incorporates concepts such as Implicit Animation and
